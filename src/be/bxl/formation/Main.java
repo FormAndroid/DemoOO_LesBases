@@ -22,16 +22,7 @@ public class Main {
                 100,
                 "Hobbit"
         );
-
-
-
-
-        Personnage p3 = new Personnage(
-                "Donald",
-                null,
-                15
-        );
-
+        
         System.out.println(p1.getNom());
 
     }
